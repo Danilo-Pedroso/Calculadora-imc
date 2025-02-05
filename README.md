@@ -1,11 +1,11 @@
-# Calculadora de IMC
+Calculadora de IMC
 
-## 📖 Sobre o Projeto
+Sobre o Projeto
 Esta é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida utilizando **HTML, CSS e JavaScript**. O objetivo do projeto é permitir que os usuários insiram sua altura e peso para calcular seu IMC e obter uma classificação com base nos padrões de saúde.
 
 ---
 
-## 🚀 Funcionalidades
+Funcionalidades
 - Entrada de dados (altura e peso)
 - Cálculo automático do IMC
 - Exibição da classificação de acordo com a tabela de IMC
@@ -14,19 +14,19 @@ Esta é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida utilizan
 
 ---
 
-## 🎨 Layout
+ Layout
 O design segue um estilo moderno e minimalista, utilizando a fonte **Lato** e cores escuras com destaques em vermelho. A interface foi projetada para ser intuitiva e responsiva.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
 - **JavaScript (DOM Manipulation)**
 
 ---
 
-## 📂 Estrutura do Projeto
+Estrutura do Projeto
 ```
 CalculadoraIMC/
 │-- index.html
@@ -39,7 +39,7 @@ CalculadoraIMC/
 
 ---
 
-## 📌 Como Executar o Projeto
+Como Executar o Projeto
 1. Clone este repositório:
    ```sh
    git clone https://github.com/seu-usuario/calculadora-imc.git
@@ -52,7 +52,7 @@ CalculadoraIMC/
 
 ---
 
-## 📊 Tabela de Classificação do IMC
+Tabela de Classificação do IMC
 | IMC | Classificação | Obesidade |
 |------|-----------------|-----------|
 | Menor que 18,5 | Magreza | 0 |
@@ -63,7 +63,7 @@ CalculadoraIMC/
 
 ---
 
-## 📌 Melhorias Futuras
+Melhorias Futuras
 - Adicionar suporte para entrada de dados em libras/polegadas.
 - Melhorar a acessibilidade do site.
 - Criar uma versão responsiva para dispositivos móveis.
@@ -71,7 +71,7 @@ CalculadoraIMC/
 
 ---
 
-## 📜 Licença
+Licença
 Este projeto está sob a licença MIT. Veja o arquivo **LICENSE** para mais detalhes.
 
 ---
